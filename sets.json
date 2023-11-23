@@ -194,5 +194,13 @@
     "built": false,
     "series": "NINJAGO",
     "url": "https://www.lego.com/en-ca/product/ninjago-city-markets-71799"
-  }
+  },
+  {
+    "name": "Avengers Tower",
+    "owned": false,
+    "built": false,
+    "series": "Marvel",
+    "url": "https://www.lego.com/en-ca/product/avengers-tower-76269"
+  },
+    
 ]
