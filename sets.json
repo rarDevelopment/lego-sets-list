@@ -109,7 +109,8 @@
     "owned": false,
     "built": false,
     "series": "Spider-Man",
-    "url": "https://www.lego.com/en-ca/product/daily-bugle-76178?icmp=HP-SHH-XL-MV_Hero_XL_76178_Super_Heroes_Product_Still_Life_testing_HP-EX-MV-9630UW5SA4"
+    "url": "https://www.lego.com/en-ca/product/daily-bugle-76178?icmp=HP-SHH-XL-MV_Hero_XL_76178_Super_Heroes_Product_Still_Life_testing_HP-EX-MV-9630UW5SA4",
+    "priority": 1
   },
   {
     "name": "Seinfeld",
@@ -144,7 +145,8 @@
     "owned": false,
     "built": false,
     "series": "Icons",
-    "url": "https://www.lego.com/en-ca/product/boutique-hotel-10297"
+    "url": "https://www.lego.com/en-ca/product/boutique-hotel-10297",
+    "priority": 1
   },
   {
     "name": "Back to the Future Time Machine",
@@ -165,41 +167,47 @@
     "owned": false,
     "built": false,
     "series": "Icons",
-    "url": "https://www.lego.com/en-ca/product/lion-knights-castle-10305"
+    "url": "https://www.lego.com/en-ca/product/lion-knights-castle-10305",
+    "priority": 1
   },
   {
     "name": "A-Frame Cabin",
     "owned": false,
     "built": false,
     "series": "Ideas",
-    "url": "https://www.lego.com/en-ca/product/a-frame-cabin-21338"
+    "url": "https://www.lego.com/en-ca/product/a-frame-cabin-21338",
+    "priority": 1
   },
   {
     "name": "PAC-MAN Arcade",
     "owned": false,
     "built": false,
     "series": "Icons",
-    "url": "https://www.lego.com/en-ca/product/pac-man-arcade-10323"
+    "url": "https://www.lego.com/en-ca/product/pac-man-arcade-10323",
+    "priority": 1
   },
   {
     "name": "Batcave - Shadow Box",
     "owned": false,
     "built": false,
     "series": "DC",
-    "url": "https://www.lego.com/en-ca/product/batcave-shadow-box-76252"
+    "url": "https://www.lego.com/en-ca/product/batcave-shadow-box-76252",
+    "priority": 1
   },
   {
     "name": "Eldorado Fortress",
     "owned": false,
     "built": false,
     "series": "Icons",
-    "url": "https://www.lego.com/en-ca/product/eldorado-fortress-10320"
+    "url": "https://www.lego.com/en-ca/product/eldorado-fortress-10320",
+    "priority": 1
   },
   {
     "name": "NINJAGO City Markets",
     "owned": false,
     "built": false,
     "series": "NINJAGO",
-    "url": "https://www.lego.com/en-ca/product/ninjago-city-markets-71799"
+    "url": "https://www.lego.com/en-ca/product/ninjago-city-markets-71799",
+    "priority": 1
   }
 ]
