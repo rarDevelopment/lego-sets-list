@@ -194,5 +194,19 @@
     "built": false,
     "series": "Marvel",
     "url": "https://www.lego.com/en-ca/product/avengers-tower-76269"
+  },
+  {
+    "name": "Donkey Kong's Tree House Expansion Set",
+    "owned": true,
+    "built": false,
+    "series": "Super Mario",
+    "url": "https://www.lego.com/en-ca/product/donkey-kong-s-tree-house-expansion-set-71424"
+  },
+  {
+    "name": "The Mandalorian N-1 Starfighter™ Microfighter",
+    "owned": true,
+    "built": false,
+    "series": "Star Wars",
+    "url": "https://www.lego.com/en-ca/product/the-mandalorian-n-1-starfighter-microfighter-75363"
   }
 ]
